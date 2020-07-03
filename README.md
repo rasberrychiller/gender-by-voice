@@ -7,6 +7,6 @@ Requirements:
   - pyAudio: sudo apt-get install python3-pyaudio
 
 P/S: please run Project.ipynb in Jupyter notebook Linux!
-The 2 Male and Female folders are for test datas, you can extract dataTest.tgz file to get test data:
+The 2 Male and Female folders are for test datas, you can download and extract .tgz file from this link: www.openslr.org/resources/45/ST-AEDS-20180100_1-OS.tgz
   - The file name with format f00x is female's audio files
   - The file name with format m00x is male's audio files
